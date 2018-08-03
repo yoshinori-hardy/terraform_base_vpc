@@ -1,5 +1,6 @@
-# LSM-Terraform
-This repo contains terraform templates for launching a 2 tier VPC.
+# No Frills Terraform
+This is a basic AWS terraform templates for launching a 2 tier VPC.  
+This was built as a learning excercise when first experimenting with TF.
 
 # Pre-Requisites
 Ensure that you've installed the TF binary
@@ -26,12 +27,7 @@ https://github.com/hashicorp/terraform/tree/master/examples
 
 # Purpose
 This repo aims to provide you with the tools to get an environment up and
-running quickly:
-
-- **Infrastructure as Code**: The infrastructure is outlined in code and can be
-quickly updated and shared.
-- **Modular Features and Components**: Just add or exclude the features that
-you require
+running quickly.
 
 # General usage
 
